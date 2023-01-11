@@ -1,15 +1,11 @@
-*{
+.Accio,#id{
 	margin=150px;
 	background-color:black;
 }
-.Accio{
-	color:white;
-}
-#Job{
-	color:white;
-}
+
 .hello-accio-job{
 	margin left=32px;
 	padding=10px;
+	color:white;
 }
 /* Your CSS Code here. */
