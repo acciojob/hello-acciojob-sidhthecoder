@@ -2,8 +2,11 @@
 	margin=150px;
 	background-color:black;
 }
-.Accio,#Job{
-	
+.Accio{
+	color:white;
+}
+#Job{
+	color:white;
 }
 .hello-accio-job{
 	margin left=32px;
