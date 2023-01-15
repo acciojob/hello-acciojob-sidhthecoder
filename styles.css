@@ -1,11 +1,12 @@
 .Accio,#id{
-	margin=150px;
+	width:150px;
+	height:150px;
 	background-color:black;
 }
 
 .hello-accio-job{
-	margin left=32px;
-	padding=10px;
+	margi-left:32px;
+	padding:10px;
 	color:white;
 }
 /* Your CSS Code here. */
